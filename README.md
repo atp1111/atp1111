@@ -1,5 +1,5 @@
 # 👋 Introducing Myself
- ![Aayush Panchal Banner](WhiteMinimalistProfileLinkedInBanner.png)
+ ![Aayush Panchal Banner](banner.png)
 
 Hello, I'm Aayush. Graduate Statistician at O.S.U and Data Scientist with experience in building multimodal LLM pipelines and clinical NLP systems to solve healthcare challenges.
 
